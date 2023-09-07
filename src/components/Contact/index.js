@@ -1,10 +1,8 @@
 import "./index.scss"
 import { useRef } from 'react'
 import emailjs from '@emailjs/browser'
-import { useEffect, useState } from 'react'
 import resume from '../../assets/documents/Ayodeji_Resume.pdf'
 import {pdfjs, Document, Page } from 'react-pdf'
-import connection from '../../connections.json'
 
 
 pdfjs.GlobalWorkerOptions.workerSrc = new URL(

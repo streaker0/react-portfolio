@@ -1,6 +1,6 @@
 import './index.scss'
 import { Link } from 'react-router-dom'
-import pfp from '../../assets/images/pfp.png'
+
 
 function Home(){
   return (

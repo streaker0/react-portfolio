@@ -1,9 +1,7 @@
 import './index.scss'
 import {
   faAngular,
-  faCss3,
   faGitAlt,
-  faHtml5,
   faJsSquare,
   faReact,
   faDocker,
